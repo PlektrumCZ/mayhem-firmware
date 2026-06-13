@@ -55,6 +55,7 @@
 #include "ui_text_editor.hpp"
 #include "ui_touchtunes.hpp"
 #include "ui_weatherstation.hpp"
+#include "apps/ui_wifiscan.hpp"
 #include "ui_subghzd.hpp"
 #include "ui_battinfo.hpp"
 #include "ui_external_items_menu_loader.hpp"
